@@ -6,7 +6,7 @@ Meu nome é Deborah Martins
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos 
 
-### Você entrar em contato comigo: 
+### Você entrar em contato comigo 📫
 
 00001107191725sp@al.educacao.sp.gov.br
 
