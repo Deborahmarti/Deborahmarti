@@ -2,7 +2,7 @@
 
 Meu nome é Deborah Martins 
 
-- Estou estudando no [Alura] (https://www.alura.com.br)
+- Estou estudando no alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos 
 
